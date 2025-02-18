@@ -1,5 +1,7 @@
 main no arquivo: adcproject.c
 
+Link do vídeo: https://drive.google.com/file/d/1EFGkZmVcVggpGrWU5XxT8FOLGAxB1T-E/view?usp=drivesdk
+
 O que é ADC?
 O ADC (Conversor Analógico-Digital) é um componente eletrônico que converte sinais analógicos (como tensões variáveis) em valores digitais (números) que podem ser processados por um microcontrolador. No contexto deste projeto, o joystick analógico gera sinais de tensão variável em seus eixos X e Y, que são lidos pelo ADC do Raspberry Pi Pico. Esses valores são então utilizados para controlar a intensidade dos LEDs e a posição do quadrado no display.
 
